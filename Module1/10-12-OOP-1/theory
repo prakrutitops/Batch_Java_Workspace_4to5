@@ -1,0 +1,40 @@
+POP:Procedural Oriented Programming
+
+OOP:Object Oriented Programming
+
+Features of OOP
+1)object:Any Entity which has own state and behaviour
+ex:pen,paper,chair etc..
+
+2)class:collection of objects that is called class
+ex:human body
+
+3)abstraction:hiding internal details and show functionalities
+ex:facebook login page
+
+4)encapsulation:Wrapping up of data or binding of data
+ex:capsule
+
+5)inheritance:when one object acquire all the properties and behaviour of 
+parent class
+ex:remote and phone
+
+6)polymorphism:Many ways to perform anything
+ex:road ways
+Types of polymorphism
+1)Method Overloading
+2)Methof Overriding
+
+
+Constructor:Method having a same as a classname that is called a constructor
+
+types of constructor
+1)Default ->There is a no parameter
+2)Parameterized ->there is some parameter(arguments)
+
+=>this is refrence keyword
+=>static keyword
+1)variable->Use same memory for reallocation
+2)method
+3)block
+
