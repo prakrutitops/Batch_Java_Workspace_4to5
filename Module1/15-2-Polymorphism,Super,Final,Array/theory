@@ -1,0 +1,23 @@
+Polymorphism
+1)Method Overloading:
+When two methods having a same name but number of parameters are diffrent
+
+2)Method Overriding:
+When two methods having a same name and also  number of parameters are same
+
+Array:Collection of items
+[]
+
+int marks[5]
+
+Array index starts with 0
+
+1)single dimensional
+2)multi ""
+
+arr[0][0]
+arr[0][1]
+arr[0][2]
+
+->we can't change array's value dynamically for that we are using ArrayList
+
