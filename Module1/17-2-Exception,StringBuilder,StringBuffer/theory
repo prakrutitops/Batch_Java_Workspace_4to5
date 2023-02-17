@@ -1,0 +1,25 @@
+String:
+
+1)StringBuilder -immutable-can not change
+concat
+equals
+
+
+2)StringBuffer-mutable-can change
+
+Exception Handling:
+Exception - Errors
+
+Keywords:
+1)try
+2)catch
+3)throw
+4)throws
+5)finally
+
+
+
+File I/O:
+FileOutputStream -write
+FileInputStream - read
+
