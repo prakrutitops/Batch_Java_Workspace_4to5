@@ -1,0 +1,33 @@
+Collection-> 
+
+=>Class
+=>Interface
+=>Methods
+
+
+Array =>
+Single 
+Multi
+
+=>Disadvantage:you can not change dynamic value
+ArrayList
+
+
+Interface:
+
+List
+=>ArrayList
+=>LinkedList
+
+Set
+=>HashSet
+
+Map
+=>HashMap
+
+Vector
+Stack
+
+
+
+Iterator
