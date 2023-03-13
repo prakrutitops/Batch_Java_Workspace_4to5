@@ -1,0 +1,64 @@
+Class - Thread
+Interface - Runnable
+
+Thread Lifecycle
+init
+start
+run
+stop
+destroy
+
+================================
+Software - XAMPP
+
+Windows
+WAMP
+W=>Windows
+A=>Apache
+M=>MYSQL
+P=>PhpMyAdmin
+
+Linux
+LAMP
+
+L=>Linux
+A=>Apache
+M=>MYSQL
+P=>PhpMyAdmin
+
+Mac
+MAMP
+M=>Mac
+A=>Apache
+M=>MYSQL
+P=>PhpMyAdmin
+
+XAMPP
+X=>Cross Platform
+A=>Apache
+M=>MYSQL
+P=>Perl
+P=>PhpMyAdmin
+
+Local Server
+
+SQL =>  Structured Query Language
+MYSQL => Database
+
+Types of commands in MYSQL:
+1)DDL=>Data Definition Language
+=>Crate,alter,drop,truncate,rename
+
+2)DML=>Data Manipulation Language
+=>Insert,Update,Delete
+
+3)DQL=>Data Query Language
+=>Select
+
+4)DCL=>Data Control Language
+=>Rollback,commit
+
+
+
+
+
