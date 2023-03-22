@@ -1,0 +1,70 @@
+procedure:May Have a return type
+
+
+
+
+Trigger
+
+function:should have a return type
+1)Agrregate Functions
+2)Scalar Functions
+
+
+constraint keys:
+
+1)primary-Avoid Data Duplication
+2)foreign-Refrence-INDEX[JOIN]
+3)unique-Uniquely identify data
+
+
+
+
+joins
+
+
+views
+
+indexer
+1.
+
+CREATE INDEX myindex
+ON user (name,email);
+
+2.
+
+normalization
+
+procedure &function
+
+DELIMITER //
+
+CREATE PROCEDURE selectdata(INOUT myid int)
+
+BEGIN
+
+SELECT*FROM user WHERE id=myid;
+
+END //
+
+DELIMITER ;
+
+SET @po='5';
+CALL selectdata(@po);
+
+
+
+
+update:
+
+DELIMITER //
+
+CREATE PROCEDURE selectdata(INOUT myid int)
+
+BEGIN
+
+UPDATE user set name='java' WHERE id=myid;
+
+END //
+
+DELIMITER ;
+
