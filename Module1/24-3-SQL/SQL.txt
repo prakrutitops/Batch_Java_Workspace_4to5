@@ -1,0 +1,81 @@
+SQL Functions:
+
+1)Agreegate Function:
+
+1)
+MAX:
+Select MAX(salary) from students;
+
+2)
+MIN:
+Select MIN(salary) from students;
+3)
+SUM:
+Select SUM(salary) from students;
+4)
+AVG:
+Select AVG(salary) from students;
+
+5)
+FIRST:
+SELECT FIRST(column_name) FROM table_name
+6)
+LAST:
+SELECT LAST(column_name) FROM table_name
+7)
+COUNT:
+SELECT COUNT(*) AS NumStudents FROM Stuents;
+
+
+2)Scalar Function:
+
+1)
+UCASE:
+SELECT UCASE(NAME) FROM Students; 
+
+2)
+LCASE:
+SELECT LCASE(NAME) FROM Students; 
+
+3)
+MID():
+SELECT MID(NAME,1,4) FROM Students; 
+
+4)LENGTH:
+SELECT LENGTH(NAME) FROM Stuents; 
+
+5)ROUND:
+SELECT ROUND(MARKS,0) FROM table_name;
+
+6)NOW():
+SELECT NAME, NOW() AS DateTime FROM Students; 
+
+===========================================================
+Procedure:May Have a return type
+Function:Must Have a return type
+
+Insert
+Select
+Update
+Delete
+
+DELIMETER //
+
+Create Procedure selectdata(INOUT myid int)
+
+BEGIN 
+
+	select * from tablename where id = myid;
+
+END //
+
+DELIMETER ;
+
+
+
+
+=============================================================
+
+
+
+Trigger
