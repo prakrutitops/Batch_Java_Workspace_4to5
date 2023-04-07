@@ -1,0 +1,22 @@
+1)
+First Screen:
+
+Firstname
+Lastname
+Email
+Password
+Repassword
+Gender->radio
+Hobbies->checkbox
+Degree->dropdown
+file->image 
+
+2)Second Screen:
+
+Login form:
+
+Email
+Password
+
+Pass ->True-> Profile -> Edit
+     ->false ->404[Password Error]
