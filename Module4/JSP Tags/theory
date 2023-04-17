@@ -1,0 +1,21 @@
+JSP Tags:
+1)
+Scriptlet Tag:
+<%
+	
+	java source code
+
+%>
+
+2)
+Expression Tag:
+<%= 
+	statement print
+
+%>
+3)
+Declaration Tag:
+
+<%! 
+	Logic
+%>
